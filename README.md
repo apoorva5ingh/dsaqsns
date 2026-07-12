@@ -8,13 +8,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/apoorva5ingh/dsaqsns/tree/master/0016-3sum-closest) |
 | [1288-remove-covered-intervals](https://github.com/apoorva5ingh/dsaqsns/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/apoorva5ingh/dsaqsns/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/apoorva5ingh/dsaqsns/tree/master/0016-3sum-closest) |
 | [1288-remove-covered-intervals](https://github.com/apoorva5ingh/dsaqsns/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/apoorva5ingh/dsaqsns/tree/master/1331-rank-transform-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/apoorva5ingh/dsaqsns/tree/master/0016-3sum-closest) |
+## Hash Table
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/apoorva5ingh/dsaqsns/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
