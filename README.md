@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/apoorva5ingh/dsaqsns/tree/master/0016-3sum-closest) |
+| [0904-fruit-into-baskets](https://github.com/apoorva5ingh/dsaqsns/tree/master/0904-fruit-into-baskets) |
 | [1288-remove-covered-intervals](https://github.com/apoorva5ingh/dsaqsns/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/apoorva5ingh/dsaqsns/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
@@ -22,5 +23,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/apoorva5ingh/dsaqsns/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/apoorva5ingh/dsaqsns/tree/master/1331-rank-transform-of-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/apoorva5ingh/dsaqsns/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
