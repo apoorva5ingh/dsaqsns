@@ -8,8 +8,8 @@ public:
         for(; high<fruits.size(); high++)
         {
             
-            f[fruits[high]]++;
-            while(f.size() > 2){
+            f[fruits[high]]++; //add high to the information 
+            while(f.size() > 2){ //there's no wrong case , so no if statement 
                  f[fruits[low]]--;
                  if(f[fruits[low]]==0)
                  f.erase(fruits[low]);
