@@ -23,10 +23,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/apoorva5ingh/dsaqsns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/apoorva5ingh/dsaqsns/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/apoorva5ingh/dsaqsns/tree/master/1331-rank-transform-of-an-array) |
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/apoorva5ingh/dsaqsns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/apoorva5ingh/dsaqsns/tree/master/0904-fruit-into-baskets) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/apoorva5ingh/dsaqsns/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
