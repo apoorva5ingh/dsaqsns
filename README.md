@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/apoorva5ingh/dsaqsns/tree/master/0904-fruit-into-baskets) |
 | [1288-remove-covered-intervals](https://github.com/apoorva5ingh/dsaqsns/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/apoorva5ingh/dsaqsns/tree/master/1331-rank-transform-of-an-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/apoorva5ingh/dsaqsns/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/apoorva5ingh/dsaqsns/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/apoorva5ingh/dsaqsns/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/apoorva5ingh/dsaqsns/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/apoorva5ingh/dsaqsns/tree/master/1331-rank-transform-of-an-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/apoorva5ingh/dsaqsns/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sliding Window
 |  |
 | ------- |
