@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/apoorva5ingh/dsaqsns/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/apoorva5ingh/dsaqsns/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/apoorva5ingh/dsaqsns/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/apoorva5ingh/dsaqsns/tree/master/3524-find-x-value-of-array-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/apoorva5ingh/dsaqsns/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/apoorva5ingh/dsaqsns/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/apoorva5ingh/dsaqsns/tree/master/3875-construct-uniform-parity-array-i) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3524-find-x-value-of-array-i](https://github.com/apoorva5ingh/dsaqsns/tree/master/3524-find-x-value-of-array-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/apoorva5ingh/dsaqsns/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/apoorva5ingh/dsaqsns/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/apoorva5ingh/dsaqsns/tree/master/3875-construct-uniform-parity-array-i) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/apoorva5ingh/dsaqsns/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/apoorva5ingh/dsaqsns/tree/master/0115-distinct-subsequences) |
+| [3524-find-x-value-of-array-i](https://github.com/apoorva5ingh/dsaqsns/tree/master/3524-find-x-value-of-array-i) |
 ## Manacher
 |  |
 | ------- |
