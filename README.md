@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/apoorva5ingh/dsaqsns/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/apoorva5ingh/dsaqsns/tree/master/0115-distinct-subsequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/apoorva5ingh/dsaqsns/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/apoorva5ingh/dsaqsns/tree/master/0678-valid-parenthesis-string) |
 ## Math
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/apoorva5ingh/dsaqsns/tree/master/0678-valid-parenthesis-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/apoorva5ingh/dsaqsns/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Bit Manipulation
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/apoorva5ingh/dsaqsns/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/apoorva5ingh/dsaqsns/tree/master/0115-distinct-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/apoorva5ingh/dsaqsns/tree/master/0678-valid-parenthesis-string) |
 | [3524-find-x-value-of-array-i](https://github.com/apoorva5ingh/dsaqsns/tree/master/3524-find-x-value-of-array-i) |
 ## Manacher
 |  |
@@ -123,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1683-invalid-tweets](https://github.com/apoorva5ingh/dsaqsns/tree/master/1683-invalid-tweets) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/apoorva5ingh/dsaqsns/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/apoorva5ingh/dsaqsns/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
