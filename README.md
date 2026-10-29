@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/apoorva5ingh/dsaqsns/tree/master/3524-find-x-value-of-array-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/apoorva5ingh/dsaqsns/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/apoorva5ingh/dsaqsns/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/apoorva5ingh/dsaqsns/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/apoorva5ingh/dsaqsns/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/apoorva5ingh/dsaqsns/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/apoorva5ingh/dsaqsns/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/apoorva5ingh/dsaqsns/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/apoorva5ingh/dsaqsns/tree/master/0678-valid-parenthesis-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/apoorva5ingh/dsaqsns/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/apoorva5ingh/dsaqsns/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Math
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/apoorva5ingh/dsaqsns/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/apoorva5ingh/dsaqsns/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -166,19 +169,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/apoorva5ingh/dsaqsns/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/apoorva5ingh/dsaqsns/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/apoorva5ingh/dsaqsns/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/apoorva5ingh/dsaqsns/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/apoorva5ingh/dsaqsns/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/apoorva5ingh/dsaqsns/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/apoorva5ingh/dsaqsns/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/apoorva5ingh/dsaqsns/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Tree
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/apoorva5ingh/dsaqsns/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/apoorva5ingh/dsaqsns/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -203,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/apoorva5ingh/dsaqsns/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/apoorva5ingh/dsaqsns/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
