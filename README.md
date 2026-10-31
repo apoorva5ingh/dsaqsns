@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/apoorva5ingh/dsaqsns/tree/master/0904-fruit-into-baskets) |
 | [1288-remove-covered-intervals](https://github.com/apoorva5ingh/dsaqsns/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/apoorva5ingh/dsaqsns/tree/master/1331-rank-transform-of-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/apoorva5ingh/dsaqsns/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/apoorva5ingh/dsaqsns/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/apoorva5ingh/dsaqsns/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/apoorva5ingh/dsaqsns/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/apoorva5ingh/dsaqsns/tree/master/0018-4sum) |
 | [1288-remove-covered-intervals](https://github.com/apoorva5ingh/dsaqsns/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/apoorva5ingh/dsaqsns/tree/master/1331-rank-transform-of-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/apoorva5ingh/dsaqsns/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/apoorva5ingh/dsaqsns/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/apoorva5ingh/dsaqsns/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/apoorva5ingh/dsaqsns/tree/master/3867-sum-of-gcd-of-formed-pairs) |
