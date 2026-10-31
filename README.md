@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/apoorva5ingh/dsaqsns/tree/master/0009-palindrome-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/apoorva5ingh/dsaqsns/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2485-find-the-pivot-integer](https://github.com/apoorva5ingh/dsaqsns/tree/master/2485-find-the-pivot-integer) |
 | [3524-find-x-value-of-array-i](https://github.com/apoorva5ingh/dsaqsns/tree/master/3524-find-x-value-of-array-i) |
