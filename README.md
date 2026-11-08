@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/apoorva5ingh/dsaqsns/tree/master/0219-contains-duplicate-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/apoorva5ingh/dsaqsns/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0904-fruit-into-baskets](https://github.com/apoorva5ingh/dsaqsns/tree/master/0904-fruit-into-baskets) |
+| [1267-count-servers-that-communicate](https://github.com/apoorva5ingh/dsaqsns/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/apoorva5ingh/dsaqsns/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/apoorva5ingh/dsaqsns/tree/master/1331-rank-transform-of-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/apoorva5ingh/dsaqsns/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -126,10 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/apoorva5ingh/dsaqsns/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/apoorva5ingh/dsaqsns/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/apoorva5ingh/dsaqsns/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/apoorva5ingh/dsaqsns/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Dynamic Programming
 |  |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/apoorva5ingh/dsaqsns/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/apoorva5ingh/dsaqsns/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/apoorva5ingh/dsaqsns/tree/master/1267-count-servers-that-communicate) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/apoorva5ingh/dsaqsns/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Primality Test
 |  |
@@ -244,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/apoorva5ingh/dsaqsns/tree/master/0204-count-primes) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/apoorva5ingh/dsaqsns/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
